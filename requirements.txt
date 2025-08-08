@@ -1,0 +1,6 @@
+fastapi[standard]
+uvicorn
+httpx
+python-multipart
+mcp
+fastapi-mcp
