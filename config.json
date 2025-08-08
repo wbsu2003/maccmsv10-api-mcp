@@ -1,0 +1,10 @@
+{
+  "mcp_base_url": "http://192.168.0.206:8000",
+  "sources": {
+    "heimuer": {
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "name": "黑木耳",
+      "detail": "https://heimuer.tv",
+    }
+  }
+}
