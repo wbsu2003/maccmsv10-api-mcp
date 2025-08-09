@@ -82,6 +82,7 @@ docker run -d \
   -p 8000:8000 \
   -e MCP_BASE_URL=http://127.0.0.1:8000 \
   -v $(pwd)/config.json:/app/config.json:ro \
+  -v $(pwd)/logs:/app/logs \
   maccmsv10-api-mcp
 ```
 
